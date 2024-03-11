@@ -63,13 +63,28 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Creating an audio extractor for Youtube",
+      "url": "https://github.com/ThiagoSPaixao/Youtube_Extractor_Python",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Creating a Tic Tac Toe Game with the help of AI",
+      "url": "https://github.com/ThiagoSPaixao/Jogo-da-Velha.git",
+      "github": true
+    },
+    {
+      "name": "Mastering the HTTP Protocol and Integrating with PokeAPI",
+      "url": "https://github.com/ThiagoSPaixao/Pokedex.git",
+      "github": true
+    },
+    {
+      "name": "Participating in a project with DIO",
+      "url": "https://github.com/ThiagoSPaixao/dio-lab-open-source.git",
+      "github": true
+    },
+    {
+      "name": "Creation of some varied codes",
+      "url": "https://github.com/ThiagoSPaixao/CodigosVariadosSimples.git",
       "github": true
     }
   ],
