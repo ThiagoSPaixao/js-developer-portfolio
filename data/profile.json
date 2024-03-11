@@ -30,20 +30,16 @@
       {
         "name": "Windows",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/windows.png"
-      }
-      {
-        "name": "VSCode",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
-      }
+      },
       {
         "name": "Git",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
-      }
+      },
       {
         "name": "GitHub",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       }
-    ],
+    ]
     "softSkills": [
       "Leadership",
       "Ease of Communication",
