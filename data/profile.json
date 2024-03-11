@@ -61,7 +61,7 @@
     "Portuguese BR",
     "English (Basic)"
   ],
-  "portfolio": [
+  "projects": [
     {
       "name": "Creating an audio extractor for Youtube",
       "url": "https://github.com/ThiagoSPaixao/Youtube_Extractor_Python",
