@@ -90,19 +90,13 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Without experience",
+      "period": "In search of my first experience.",
+      "description": "I'm looking for opportunities in the technology area to apply and expand my programming knowledge. " +
+      "Despite having no previous professional experience in the field, I am passionate about learning and " +
+      "committed to acquiring practical skills while contributing positively to teams and projects.\n" +
+      "I'm excited to begin my professional journey in technology and am open to internship " +
+      "opportunities or entry-level positions that allow me to grow and contribute to challenging projects."
     }
   ]
 }
