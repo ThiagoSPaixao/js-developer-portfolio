@@ -38,6 +38,10 @@
       {
         "name": "GitHub",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      },
+      {
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
