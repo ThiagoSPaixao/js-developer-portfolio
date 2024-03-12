@@ -10,16 +10,17 @@ function updateProfileInfo(profileData) {
     const job = document.getElementById('profile.job')
     job.innerText = profileData.job
 
-    const location = document.getElementById('profile.location')
+    const location = document.getElementById('profle.location')
     location.innerText = profileData.location
 
-    const phone = document.getElementById('profile.phone')
-    phone.innerText = profileData.phone
-    phone.href = `tel:${profileData.phone}`
+    const contact = document.getElementById('profile.contact')
+    contact.innerText = profileData.contact
+    contact.href = `tel:${profileData.contact}`
 
-    const email = document.getElementById('profile.email')
-    email.innerText = profileData.email
-    email.href = `mailto:${profileData.email}`
+    const mail = document.getElementById('profile.mail')
+    mail.innerText = profileData.mail
+    mail.href = `mailto:${profileData.mail}`
+
 }
 
 function updateSoftSkills(profileData) {
@@ -37,15 +38,15 @@ function updateLanguages(profileData) {
     languages.innerHTML = profileData.languages.map(language => `<li>${language}</li>`).join('')
 }
 
-function updatePortfolio(profileData) {
-    const portfolio = document.getElementById('profile.portfolio')
-    portfolio.innerHTML = profileData.portfolio.map(project => {
+function updateProjects(profileData) {
+    const projects = document.getElementById('profile.projects')
+    projects.innerHTML = profileData.projects.map(project => {
         return `
             <li>
                 <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
                 <a href="${project.url}" target="_blank">${project.url}</a>
             </li>
-        `
+        `    
     }).join('')
 }
 
@@ -60,14 +61,17 @@ function updateProfessionalExperience(profileData) {
             </li>
         `
     }).join('')
+
+
 }
 
 (async () => {
+
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
     updateLanguages(profileData)
-    updatePortfolio(profileData)
+    updateProjects(profileData)
     updateProfessionalExperience(profileData)
 })()
