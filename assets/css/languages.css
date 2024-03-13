@@ -14,13 +14,12 @@
     align-items: center;
     padding-right: 1rem;
     font-weight: 700;
-    
 }
 
 .languages li::before {
-    content: '';
+    content: "";
     display: inline-block;
-    width: 2rem;
+    width: 1rem;
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
