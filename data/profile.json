@@ -1,0 +1,98 @@
+{
+  "name": "Thiago S. Paixão",
+  "photo": "https://avatars.githubusercontent.com/u/152554911?v=4",
+  "job": "Junior Developer",
+  "location": "Recife - BR",
+  "contact": "(81) 9 9237-9778",
+  "mail": "thiaguinhoescolhido26@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/thiagospaixao/js-developer-portfolio/main/data/imgs/typescript.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "Windows",
+        "logo": "https://raw.githubusercontent.com/thiagospaixao/js-developer-portfolio/main/data/imgs/windows.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/thiagospaixao/js-developer-portfolio/main/data/imgs/github.png"
+      },
+      {
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
+      }
+    ],
+    "softSkills": [
+      "Leadership",
+      "Ease of Communication",
+      "Organization",
+      "Team work",
+      "Flexibility",
+      "Learning Ability",
+      "Proactivity",
+      "Professional ethics",
+      "Adaptability",
+      "Resilience"
+    ]
+  },
+  "languages": [
+    "Portuguese BR",
+    "English (Basic)"
+  ],
+  "projects": [
+    {
+      "name": "Creating an audio extractor for Youtube",
+      "url": "https://github.com/ThiagoSPaixao/Youtube_Extractor_Python",
+      "github": true
+    },
+    {
+      "name": "Creating a Tic Tac Toe Game with the help of AI",
+      "url": "https://github.com/ThiagoSPaixao/Jogo-da-Velha.git",
+      "github": true
+    },
+    {
+      "name": "Mastering the HTTP Protocol and Integrating with PokeAPI",
+      "url": "https://github.com/ThiagoSPaixao/Pokedex.git",
+      "github": true
+    },
+    {
+      "name": "Participating in a project with DIO",
+      "url": "https://github.com/ThiagoSPaixao/dio-lab-open-source.git",
+      "github": true
+    },
+    {
+      "name": "Creation of some varied codes",
+      "url": "https://github.com/ThiagoSPaixao/CodigosVariadosSimples.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Without experience",
+      "period": "In search of my first experience.",
+      "description": "I'm looking for opportunities in the technology area to apply and expand my programming knowledge. Despite having no previous professional experience in the field, I am passionate about learning and committed to acquiring practical skills while contributing positively to teams and projects. I'm excited to begin my professional journey in technology and am open to internship opportunities or entry-level positions that allow me to grow and contribute to challenging projects."
+    }
+  ]
+}
