@@ -9,35 +9,35 @@
     "hardSkills": [
       {
         "name": "TypesCript",
-        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/typescript.png"
+        "logo": "https://raw.githubusercontent.com/thiagospaixao/js-developer-portfolio/main/data/imgs/typescript.png"
       },
       {
         "name": "JavasCript",
-        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/thiagospaixao/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/thiagospaixao/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/thiagospaixao/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/thiagospaixao/js-developer-portfolio/main/data/imgs/git.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/thiagospaixao/js-developer-portfolio/main/data/imgs/github.png"
       },
       {
         "name": "VSCode",
-        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/vscode.png"
+        "logo": "https://raw.githubusercontent.com/thiagospaixao/js-developer-portfolio/main/data/imgs/vscode.png"
       },
       {
         "name": "Windows",
-        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/windows.png"
+        "logo": "https://raw.githubusercontent.com/thiagospaixao/js-developer-portfolio/main/data/imgs/windows.png"
       }
     ],
     "softSkills": [
