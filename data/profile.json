@@ -1,0 +1,91 @@
+{
+  "name": "Thiago S. Paixão",
+  "photo": "https://avatars.githubusercontent.com/u/152554911?v=4",
+  "job": "Desenvolvedor Júnior",
+  "location": "Recife - PE",
+  "phone": "(81) 99237-9778",
+  "email": "thiaguinhoescolhido26@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "TypesCript",
+        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/typescript.png"
+      },
+      {
+        "name": "JavasCript",
+        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/js.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/css.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/github.png"
+      },
+      {
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/vscode.png"
+      },
+      {
+        "name": "Windows",
+        "logo": "https://raw.githubusercontent.com/ThiagoSPaixao/teste/main/data/imgs/windows.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização",
+      "Rápido Aprendizado",
+      "Proatividade"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Criando o meu Portfólio utilizando HTML, CSS e JavaScript",
+      "url": "https://github.com/ThiagoSPaixao/js-developer-portfolio.git",
+      "github": true
+    },
+    {
+      "name": "Criando um extrator de áudio para Youtube",
+      "url": "https://github.com/ThiagoSPaixao/Youtube_Extractor_Python",
+      "github": true
+    },
+    {
+      "name": "Dominando o protocolo HTTP e integrando-se com PokeAPI",
+      "url": "https://github.com/ThiagoSPaixao/Pokedex.git",
+      "github": true
+    },
+    {
+      "name": "Criando um Jogo da Velha com IA",
+      "url": "https://github.com/ThiagoSPaixao/Jogo-da-Velha.git",
+      "github": true
+    },
+    {
+      "name": "Elaborando um projeto com a DIO",
+      "url": "https://github.com/ThiagoSPaixao/dio-lab-open-source.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Sem Experiência",
+      "period": "Em busca da primeira experiência",
+      "description": "Estou em busca da primeira experiência na área de Desenvolvimento de Softwares, seja para estágio ou para Dev. Júnior."
+    }
+  ]
+}
